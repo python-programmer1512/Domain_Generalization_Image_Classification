@@ -1,5 +1,9 @@
 # Domain_Generalization_Image_Classification
 
+## 다운로드
+데이터 다운로드 : https://drive.google.com/drive/folders/1ysptV4jfXKEi7rRSu1_0JEs6KC_ARB57?usp=sharing
+
+
 ## 설명서
 * 모든 링크는 / 를 사용하며, 마지막에 / 를 붙이는 것을 원칙으로 한다
 * 만약 \ 일경우 바꿔야 함
