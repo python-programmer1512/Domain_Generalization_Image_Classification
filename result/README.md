@@ -4,8 +4,8 @@
 
 
 
-* **epoch = 10**
-* **batch_size = 16**
+* **epoch = 10
+* **batch_size = 16
 
 |**MixStyle|**rotation|**color jitter|RandomHorizontalFlip|RandomVerticalFlip|RandomGrayscale|평균 acc|
 |:------:|:---:|:---:|:---:|:---:|:---:|:---:|
