@@ -62,7 +62,7 @@ resnet18 로 학습
 
 * epoch = 15
 * batch_size = 16
-* 
+
 |MixStyle|rotation|color jitter|RandomHorizontalFlip|RandomVerticalFlip|RandomGrayscale|평균 acc|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |x|x|x|x|x|x|0.7323|
@@ -76,4 +76,25 @@ resnet18 로 학습
 |x|x|x|o|x|o|0.9089|
 |x|x|x|x|o|o|0.9156|
 
+
+* epoch = 20
+* batch_size = 16
+
+|MixStyle|rotation|color jitter|RandomHorizontalFlip|RandomVerticalFlip|RandomGrayscale|평균 acc|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|x|x|x|x|x|x|0.7949|
+|o|x|x|x|x|x|0.7055|
+|x|o|x|x|o|x|0.9063|
+|x|o|x|x|x|o|0.9092|
+|x|o|x|x|o|o|0.9039|
+|x|x|o|o|o|x|0.8735|
+|x|x|o|o|x|o|0.8750|
+|x|x|o|x|o|o|0.8673|
+|x|x|x|o|o|o|0.9479|
+|o|o|o|o|x|x|0.8219|
+|o|o|o|x|o|x|0.8345|
+|o|o|o|x|x|o|0.8260|
+|o|o|x|o|o|x|0.9010|
+|o|o|x|o|x|o|0.9081|
+|o|o|o|o|o|o|0.8316|
 
