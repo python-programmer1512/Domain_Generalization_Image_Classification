@@ -60,17 +60,3 @@ resnet18 로 학습
 
 
 
-* epoch = 20
-* batch_size = 16
-|MixStyle|rotation|color jitter|RandomHorizontalFlip|RandomVerticalFlip|RandomGrayscale|평균 acc|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|x|x|x|x|x|x|0.7323|
-|o|x|x|x|x|x|0.7497|
-|x|o|x|x|o|x|0.8841|
-|x|o|x|x|x|o|0.9137|
-|x|x|o|o|x|x|0.8399|
-|x|x|o|x|o|x|0.8309|
-|x|x|o|x|x|o|0.8580|
-|x|x|x|o|o|x|0.9237|
-|x|x|x|o|x|o|0.9089|
-|x|x|x|x|o|o|0.9156|
