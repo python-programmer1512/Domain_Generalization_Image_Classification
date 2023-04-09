@@ -1,4 +1,4 @@
-* 학습 결과 전체
+* [학습 결과 전체](https://github.com/python-programmer1512/Domain_Generalization_Image_Classification/blob/main/result/README.md)
 
 * [학습 결과 상위 10개](https://github.com/python-programmer1512/Domain_Generalization_Image_Classification/blob/main/result/result_non_sort.md)
 
