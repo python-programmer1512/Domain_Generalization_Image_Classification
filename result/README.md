@@ -77,6 +77,7 @@ resnet18 로 학습
 |x|x|x|x|o|o|0.9156|
 
 
+
 * epoch = 20
 * batch_size = 16
 
