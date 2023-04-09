@@ -6,9 +6,9 @@ resnet18 로 학습
 
 * epoch = 10
 * batch_size = 16
+* 
 |MixStyle|rotation|color jitter|RandomHorizontalFlip|RandomVerticalFlip|RandomGrayscale|평균 acc|
 |:------:|:---:|:---:|:---:|:---:|:---:|:---:|
-
 |x|x|x|x|x|x|0.7559|
 |o|x|x|x|x|x|0.6373|
 |x|o|x|x|x|x|0.8022|
