@@ -1,0 +1,23 @@
+epoch_1
+epoch_1 train loss : 1.8365563565054857, train acc : 0.28999905453719016
+epoch_2
+epoch_2 train loss : 1.5370148334275682, train acc : 0.5434443521143713
+epoch_3
+epoch_3 train loss : 1.3103462042332594, train acc : 0.6989490878821801
+epoch_4
+epoch_4 train loss : 1.1388009009088875, train acc : 0.7691522001026819
+epoch_5
+epoch_5 train loss : 1.0068942695313554, train acc : 0.8443282908530996
+epoch_6
+epoch_6 train loss : 0.9045746763472429, train acc : 0.888886819951746
+epoch_7
+epoch_7 train loss : 0.8060181824875118, train acc : 0.8976581626129547
+epoch_8
+epoch_8 train loss : 0.7527690475195067, train acc : 0.9256156158571377
+epoch_9
+epoch_9 train loss : 0.7421738860072838, train acc : 0.9293269573752123
+epoch_10
+epoch_10 train loss : 0.7479283338586864, train acc : 0.9210563604142834
+
+best val acc's epoch is epoch_9.
+best val acc is 0.9293269573752123 and this acc's loss is 0.7421738860072838.

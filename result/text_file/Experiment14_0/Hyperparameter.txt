@@ -1,0 +1,16 @@
+model is resnet18.
+weight is IMAGENET1K_V1.
+epoch is 10.
+batch size is 16.
+ytrain_angle is [30, 60].
+ytest_angle is [0].
+Loss Function is CrossEntropyLoss.
+Domain_Generalization is 1.
+Data_augmentation
+image_rotation is 1.
+ColorJitter is 0.
+RandomHorizontalFlip is 0.
+RandomVerticalFlip is 0.
+RandomGrayscale is 0.
+optimizer is Adam. lr is 0.0001, momentum is 0.9.
+scheduler is StepLR. Period is 7, gamma is 0.1.
