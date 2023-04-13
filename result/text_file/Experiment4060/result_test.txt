@@ -1,0 +1,43 @@
+epoch_1
+epoch_1 test loss : 1.6941911054380012, test acc : 0.39527073130014306
+epoch_2
+epoch_2 test loss : 1.413891447312904, test acc : 0.643461128387599
+epoch_3
+epoch_3 test loss : 1.2184738263939365, test acc : 0.7365587104557693
+epoch_4
+epoch_4 test loss : 1.1182830970395694, test acc : 0.7698437448437447
+epoch_5
+epoch_5 test loss : 1.0062867348844355, test acc : 0.8024279774279774
+epoch_6
+epoch_6 test loss : 0.9278450075424078, test acc : 0.8164420601920602
+epoch_7
+epoch_7 test loss : 0.8810493783517317, test acc : 0.8239227551727552
+epoch_8
+epoch_8 test loss : 0.8465081324631517, test acc : 0.8366021928521928
+epoch_9
+epoch_9 test loss : 0.8377711242347052, test acc : 0.8366405553905555
+epoch_10
+epoch_10 test loss : 0.8419652472842823, test acc : 0.8293727106227106
+epoch_11
+epoch_11 test loss : 0.8491811842629404, test acc : 0.8344470844470845
+epoch_12
+epoch_12 test loss : 0.8263436628110481, test acc : 0.8406593406593407
+epoch_13
+epoch_13 test loss : 0.8144248015049732, test acc : 0.8427228739728739
+epoch_14
+epoch_14 test loss : 0.8142445599942496, test acc : 0.8412353974853976
+epoch_15
+epoch_15 test loss : 0.8436385223811323, test acc : 0.8259083259083259
+epoch_16
+epoch_16 test loss : 0.8087228468873284, test acc : 0.8394420519420521
+epoch_17
+epoch_17 test loss : 0.800964204312274, test acc : 0.8452300514800515
+epoch_18
+epoch_18 test loss : 0.81845215583841, test acc : 0.8508124195624196
+epoch_19
+epoch_19 test loss : 0.8078530541423595, test acc : 0.8351605039105038
+epoch_20
+epoch_20 test loss : 0.8150304496062525, test acc : 0.8320325132825133
+
+best test acc's epoch is epoch_18.
+best test acc is 0.8508124195624196 and this acc's loss is 0.81845215583841.
