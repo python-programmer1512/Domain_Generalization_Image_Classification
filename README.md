@@ -1,5 +1,8 @@
 # Domain_Generalization_Image_Classification
 
+![poster](<img width="526" alt="image" src="https://github.com/python-programmer1512/Domain_Generalization_Image_Classification/assets/68761453/b50afefd-bfe5-4a73-843e-dedfef21434e">)
+
+
 ## 설명서
 * 모든 링크는 / 를 사용하며, 마지막에 / 를 붙이는 것을 원칙으로 한다
 * 만약 \ 일경우 바꿔야 함
