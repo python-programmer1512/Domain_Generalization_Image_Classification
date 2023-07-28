@@ -1,6 +1,6 @@
 # Domain_Generalization_Image_Classification
 
-![poster](<img width="526" alt="image" src="https://github.com/python-programmer1512/Domain_Generalization_Image_Classification/assets/68761453/b50afefd-bfe5-4a73-843e-dedfef21434e">)
+![poster](file:///C:/Users/white/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/2023%20kcc/github_img.png)
 
 
 ## 설명서
