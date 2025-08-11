@@ -1,0 +1,5 @@
+epoch_1
+epoch_1 train loss : 1.7885730272524067, train acc : 0.33405120940835226
+
+best val acc's epoch is epoch_1.
+best val acc is 0.33405120940835226 and this acc's loss is 1.7885730272524067.

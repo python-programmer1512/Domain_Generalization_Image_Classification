@@ -1,0 +1,5 @@
+epoch_1
+epoch_1 test loss : 1.6604378026969424, test acc : 0.38167604967005725
+
+best test acc's epoch is epoch_1.
+best test acc is 0.38167604967005725 and this acc's loss is 1.6604378026969424.
