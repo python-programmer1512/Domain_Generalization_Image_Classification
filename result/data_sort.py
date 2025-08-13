@@ -47,4 +47,4 @@ def non_sort_out(T):
 
         print("|")
 
-sort_out(T)
+non_sort_out(T)
